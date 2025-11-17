@@ -52,23 +52,9 @@ I'm a passionate software developer with a keen interest in building scalable ap
 
 ---
 
-## 🔭 Current Projects
-
-- 🌟 **E-commerce Platform**: Building a full-stack e-commerce solution with React, Node.js, and MongoDB
-- 🤖 **AI Chat Assistant**: Developing an intelligent chatbot using NLP and machine learning
-- 📱 **Mobile App**: Creating a cross-platform mobile application with React Native
-- 🔐 **Authentication Service**: Implementing a secure, scalable authentication microservice
-
----
-
 ## 🌱 Currently Learning
 
-- 🧠 Machine Learning & Deep Learning with TensorFlow
-- ☁️ Cloud Architecture & DevOps practices
-- 🦀 Rust programming language
-- 📊 Data Structures & Algorithms (Advanced)
-- 🔗 Web3 & Blockchain technologies
-
+- 🧠 Machine Learning & Deep Learning
 ---
 
 ## 📌 Featured Repositories
