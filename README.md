@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software developer with a keen interest in building scalable applications and exploring new technologies. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me learning about the latest tech trends and contributing to open-source projects.
+I'm a passionate software developer with a keen interest in building scalable applications and exploring new technologies. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me learning about the latest tech trends.
 
 ---
 
