@@ -45,23 +45,25 @@ I'm a passionate software developer with a keen interest in building scalable ap
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
 ## 🌱 Currently Learning
 
 - 🧠 Machine Learning & Deep Learning
+- 🤖 Building agents with LangChain & LangGraph
 ---
 
 ## 📌 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/HussainHaider">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HussainHaider&repo=HussainHaider&theme=tokyonight" alt="Featured Repo">
+  <a href="https://github.com/HussainHaider/market-mind-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HussainHaider&repo=market-mind-AI&theme=tokyonight" alt="market-mind-AI">
+  </a>
+  <a href="https://github.com/HussainHaider/omnichat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HussainHaider&repo=omnichat&theme=tokyonight" alt="omnichat">
   </a>
 </div>
 
